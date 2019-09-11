@@ -1,0 +1,17 @@
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.Tests.deps.json
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.Tests.runtimeconfig.json
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.Tests.runtimeconfig.dev.json
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.Tests.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.Tests.pdb
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/bin/Debug/netcoreapp2.1/AWS_lambda.pdb
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.csprojAssemblyReference.cache
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.csproj.CoreCompileInputs.cache
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.AssemblyInfoInputs.cache
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.AssemblyInfo.cs
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.csproj.CopyComplete
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/test/AWS_lambda.Tests/obj/Debug/netcoreapp2.1/AWS_lambda.Tests.pdb

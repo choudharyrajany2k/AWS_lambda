@@ -1,0 +1,11 @@
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/bin/Debug/netcoreapp2.1/AWS_lambda.deps.json
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/bin/Debug/netcoreapp2.1/AWS_lambda.runtimeconfig.json
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/bin/Debug/netcoreapp2.1/AWS_lambda.runtimeconfig.dev.json
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/bin/Debug/netcoreapp2.1/AWS_lambda.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/bin/Debug/netcoreapp2.1/AWS_lambda.pdb
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/obj/Debug/netcoreapp2.1/AWS_lambda.csprojAssemblyReference.cache
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/obj/Debug/netcoreapp2.1/AWS_lambda.csproj.CoreCompileInputs.cache
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/obj/Debug/netcoreapp2.1/AWS_lambda.AssemblyInfoInputs.cache
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/obj/Debug/netcoreapp2.1/AWS_lambda.AssemblyInfo.cs
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/obj/Debug/netcoreapp2.1/AWS_lambda.dll
+/media/ratulghosh/Hard Drive/Dotnet/MyRepo/AWS_lambda/src/AWS_lambda/obj/Debug/netcoreapp2.1/AWS_lambda.pdb
